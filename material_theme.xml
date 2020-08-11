@@ -1,0 +1,9 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="useMaterialFont2" value="true" />
+    <option name="accentColor" value="84ffff" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
+    <option name="userId" value="640b7b50:1724b3ddaa9:-8000" />
+    <option name="version" value="5.2.0" />
+  </component>
+</application>
