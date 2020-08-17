@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/silverCase/fb-mel-bot" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pollyvolk/webmagic" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
